@@ -1,5 +1,14 @@
 			GIFLIB NEWS
 
+Repository head
+===============
+
+Code Fixes
+----------
+
+* Fix for low-severity CVE-2026-23868 affecting gifponge, giftool, and gifbuild,
+  but not the core library - library clients need not be alarned.
+
 Version 6.1.1
 =============
 

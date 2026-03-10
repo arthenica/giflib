@@ -5,7 +5,7 @@ Package: giflib
 
 XBS-Packaged-As: giflib
 
-Destinations: ~,sourceforge
+Destinations: ~,sourceforge, vulns@meta.com
 
 Description: a library for rendering and generating GIF image files.
  This is the GIF service code in C used for over two decades by graphics
